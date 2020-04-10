@@ -8,10 +8,7 @@ public class PasswordGenerator {
         int chars = 3;
         if (spec == "Y") {chars = 4;}
         System.out.println(generatePassword(chars,length));
-
     }
-
-    // <3 :() <3 <3 <3
 
     public static String generatePassword(int chars, int length) {
         String password = "";
