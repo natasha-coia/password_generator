@@ -11,7 +11,7 @@ public class PasswordGenerator {
 
     }
 
-    // <3
+    // <3 :)
 
     public static String generatePassword(int chars, int length) {
         String password = "";
